@@ -1,5 +1,5 @@
-Author : Sahil K
-
+#Author : Sahil K
+<br>
 Basic Github commands: 
 
    1) git clone <link>  //to join the repo to the local computer
